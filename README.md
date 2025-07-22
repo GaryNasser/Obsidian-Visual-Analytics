@@ -45,7 +45,6 @@ wake-up: 07:30
 sleep-in: 23:15
 Working Outside: 3.5
 Meditation: 20
-new-feeling: false
 ---
 
 Your daily notes content goes here...
