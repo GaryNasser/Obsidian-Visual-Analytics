@@ -14,7 +14,7 @@ This project is a suite of MATLAB scripts designed to analyze and visualize pers
 
 ## Project Structure
 
--   `main_analysis_script.m`: The main executable script. **Configure your parameters here.**
+-   `main_analysis_script.mlx`: The main executable script. **Configure your parameters here.**
 -   `analyzeObsidianNotes.m`: A function to read and parse data from Obsidian `.md` files.
 -   `plotSleepPattern.m`: A function to create the sleep pattern visualization.
 -   `createSingleLineChart.m`: A generic function to plot a single metric over time.
