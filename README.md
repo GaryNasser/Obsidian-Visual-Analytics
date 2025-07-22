@@ -41,17 +41,10 @@ Your `.md` files should contain a YAML front matter block like this. The parser 
 
 ```yaml
 ---
-wake-up: "07:30"
-sleep-in: "23:15"
+wake-up: 07:30
+sleep-in: 23:15
 Working Outside: 3.5
 Meditation: 20
-Running: 5000
-push up: 50
-Entertainment Time: 2
-Fruit: true
-short-term: true
-long-term: false
-positive training: true
 new-feeling: false
 ---
 
