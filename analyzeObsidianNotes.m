@@ -53,9 +53,9 @@ try
     end
 
     % Define property categories for parsing
-    numericProps = {'Working Outside', 'Meditation', 'Running', 'push up', 'Entertainment Time'};
+    numericProps = {'Working Outside', 'Meditation'};
     timeProps = {'wake-up', 'sleep-in'};
-    boolProps = {'Fruit', 'short-term', 'long-term', 'positive training', 'new-feeling'};
+    boolProps = {'Fruit'};
 
     % Initialize the results table
     varNames = [{'FileName'}, ...
